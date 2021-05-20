@@ -2,7 +2,9 @@
 	path = DPR
 	url = https://github.com/averyw09521/DPR.git
 	branch = master
+	ignore = dirty
 [submodule "retrieval-based-baselines"]
 	path = retrieval-based-baselines
 	url = https://github.com/averyw09521/retrieval-based-baselines.git
 	branch = master
+	ignore = dirty
