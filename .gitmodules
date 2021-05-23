@@ -8,3 +8,6 @@
 	url = https://github.com/averyw09521/retrieval-based-baselines.git
 	branch = master
 	ignore = dirty
+[submodule "ColBERT"]
+	path = ColBERT
+	url = https://github.com/stanford-futuredata/ColBERT.git
